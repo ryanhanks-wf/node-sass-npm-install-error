@@ -2,4 +2,4 @@ language: node_js
 node_js:
   - 0.10.45
 before_install:
-  - rm -rf node_modules
+  - rm -rf /home/travis/build/ryanhanks-wf/node-sass-npm-install-error/node_modules
